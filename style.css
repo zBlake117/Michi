@@ -1,0 +1,41 @@
+                                        
+
+                body {
+                      background-color: #ffe6f0;
+                        font-family: 'Comic Sans MS', cursive;
+                          text-align: center;
+                            padding-top: 100px;
+                            }
+
+                            h1 {
+                              font-size: 2.5rem;
+                                color: #d63384;
+                                  margin-bottom: 50px;
+                                  }
+
+                                  .buttons {
+                                    position: relative;
+                                    }
+
+                                    button {
+                                      padding: 15px 25px;
+                                        font-size: 20px;
+                                          border: none;
+                                            border-radius: 12px;
+                                              cursor: pointer;
+                                                margin: 10px;
+                                                  transition: 0.2s;
+                                                  }
+
+                                                  #yesBtn {
+                                                    background-color: #ff69b4;
+                                                      color: white;
+                                                      }
+
+                                                      #noBtn {
+                                                        background-color: #f8d7da;
+                                                          color: #721c24;
+                                                            position: absolute;
+                                                            }
+
+                
